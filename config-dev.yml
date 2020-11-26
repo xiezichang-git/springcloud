@@ -1,8 +1,8 @@
 #dev   第二次修改
 
-dev 测试springcloud
+
 server:
-  port: 7003
+  port: 7003 dev 测试springcloud
 
 eureka:
   instance:
